@@ -30,6 +30,8 @@ submission for a small-business property and general liability package.
 
 Rules:
 - Use only what the submission says. If a fact is not stated, use null. Never guess.
+- Always fill business_class with a short name for the kind of business \
+(e.g. "cocktail lounge", "cafe", "accounting office"), based on the description.
 - Money is a plain number in USD (e.g. 1200000, not "$1.2M").
 - Percentages are numbers from 0 to 100.
 - A claim's amount is total incurred: paid plus reserved.
