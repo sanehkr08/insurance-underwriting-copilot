@@ -1,0 +1,32 @@
+[
+  {
+    "submission": "SUB-001_bean_there_cafe.txt",
+    "expected_decision": "ACCEPT",
+    "triggered_rules": [],
+    "notes": "Planned beer and wine sales next year must not trigger GL-2. One small claim ($8,500) is within GL-3. Panini press is not grease-producing cooking (PROP-5)."
+  },
+  {
+    "submission": "SUB-002_oakridge_hardware.txt",
+    "expected_decision": "REFER",
+    "triggered_rules": ["PROP-1", "PROP-2", "PROP-4"],
+    "notes": "TIV $3.1M is over $3M. Built 1958 and heating not updated since 1998 (28 years). Roof from 2004 is 22 years old with no inspection."
+  },
+  {
+    "submission": "SUB-003_night_owl_lounge.txt",
+    "expected_decision": "DECLINE",
+    "triggered_rules": ["APP-2", "GL-2", "GL-3", "GL-6", "PROP-6"],
+    "notes": "Alcohol is 72% of revenue, so DECLINE under APP-2 and GL-2. Flood zone AE, two claims totalling $75,000, and a prior non-renewal would each REFER, but decline wins (AUTH-1)."
+  },
+  {
+    "submission": "SUB-004_brightline_accounting.txt",
+    "expected_decision": "ACCEPT",
+    "triggered_rules": [],
+    "notes": "Tenant, so building age and roof age are not required (AUTH-5). Professional office, no claims, TIV $320,000."
+  },
+  {
+    "submission": "SUB-005_summit_home_repairs.txt",
+    "expected_decision": "REFER",
+    "triggered_rules": ["GL-3", "GL-4"],
+    "notes": "Three claims totalling $90,000. Subcontracts 35% without certificates from every sub. Roof repairs are only 10% of revenue, so NOT a roofing contractor under APP-2. Frame building TIV $600,000 is within PROP-3."
+  }
+]

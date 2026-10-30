@@ -1,0 +1,49 @@
+FICTIONAL SAMPLE FOR TESTING - not a real business
+
+From: Priya Natarajan <priya@lonestarbrokers.example>
+To: submissions@northwindmutual.example
+Date: October 12, 2026
+Subject: New business - Bean There Cafe LLC - package quote
+
+Hi team,
+
+Please quote property and GL for Bean There Cafe LLC, a coffee shop in Austin, TX.
+They have been open since 2020 (6 years) and the owner bought the building in 2021.
+Clean, well-run shop. Application details below.
+
+Thanks,
+Priya
+
+----------------------------------------------------------------
+APPLICATION - MAIN STREET BUSINESS PACKAGE
+
+Applicant:            Bean There Cafe LLC
+Address:              1418 South Congress Ave, Austin, TX 78704
+Operations:           Coffee shop serving espresso drinks, pastries baked
+                      on site, and sandwiches made in a panini press.
+Years in business:    6
+Annual revenue:       $850,000
+Alcohol sales:        None today. Owner plans to apply for a beer and wine
+                      permit next year (expected about 10% of sales).
+Cooking equipment:    2 espresso machines, 1 convection oven, 1 panini press.
+                      No fryers or grills.
+
+BUILDING (insured)
+Year built:           2008
+Construction:         Masonry
+Square feet:          2,400
+Roof:                 Replaced 2019
+Occupancy:            100% occupied by applicant
+Sprinklers:           No
+FEMA flood zone:      X
+
+VALUES
+Building:             $1,200,000
+Contents:             $180,000
+Business income:      $150,000
+
+LOSS HISTORY (past 3 years)
+03/2024  Customer slipped on wet floor. Closed. Paid $8,500.
+
+PRIOR INSURANCE
+No cancellations or non-renewals in the past 3 years.

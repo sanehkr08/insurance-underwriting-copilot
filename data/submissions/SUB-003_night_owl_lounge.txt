@@ -1,0 +1,23 @@
+FICTIONAL SAMPLE FOR TESTING - not a real business
+
+APPLICATION - MAIN STREET BUSINESS PACKAGE
+Submitted by: Coastal Risk Partners (broker), October 22, 2026
+
+1. Applicant name:        Night Owl Lounge Inc.
+2. Location:              85 NW 23rd Street, Miami, FL 33127
+3. Description:           Cocktail lounge with DJ nights Thursday to Saturday.
+                          Serves pre-packaged snacks only. No kitchen.
+4. Years in business:     4
+5. Annual revenue:        $1,600,000
+6. Alcohol share:         72% of revenue
+7. Building:              Leased. Applicant does not insure the building.
+8. FEMA flood zone:       AE
+9. Values:                Contents $250,000; Business income $100,000
+
+10. Loss history, past 3 years:
+    - 08/2024  Patron injured in fight, sued lounge. Open. Reserved $40,000.
+    - 01/2025  Liquor liability claim after a drunk-driving accident.
+               Closed. Paid $35,000.
+
+11. Has any insurer cancelled or non-renewed coverage in the past 3 years?
+    Yes. Previous carrier non-renewed in 2025 because of the claims above.

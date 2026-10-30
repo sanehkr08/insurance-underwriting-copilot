@@ -1,0 +1,48 @@
+FICTIONAL SAMPLE FOR TESTING - not a real business
+
+From: Luis Ortega <luis@gemstatebrokerage.example>
+To: submissions@northwindmutual.example
+Date: October 28, 2026
+Subject: Summit Home Repairs - contractor package
+
+Team,
+
+Submitting Summit Home Repairs LLC of Boise, ID. Residential handyman and
+carpentry contractor, 5 years in business, $1.3M revenue. Owner is very
+experienced. Details below.
+
+Luis
+
+----------------------------------------------------------------
+APPLICANT:  Summit Home Repairs LLC
+ADDRESS:    4120 W Chinden Blvd, Boise, ID 83714
+YEARS IN BUSINESS: 5
+ANNUAL REVENUE: $1,300,000
+
+WORK BREAKDOWN (by revenue)
+  Interior carpentry and trim     45%
+  Drywall and painting            30%
+  Deck building                   15%
+  Small roof repairs              10%
+Maximum working height: 2 stories (homes only)
+
+SUBCONTRACTORS
+About 35% of jobs are done by subcontractors. We get certificates of
+insurance from most of them, but not the smaller crews.
+
+PROPERTY - owned shop and storage building (insured)
+  Year built: 1995
+  Construction: Wood frame
+  Roof: Installed 2012
+  Fully occupied by applicant
+  FEMA flood zone: X
+  Building value: $400,000
+  Contents (tools and equipment): $150,000
+  Business income: $50,000
+
+LOSS HISTORY (past 3 years)
+  05/2023  Water damage to customer's kitchen during remodel. Closed. $12,000.
+  09/2024  Homeowner tripped over tools left on stairs. Closed. $48,000.
+  06/2025  Paint overspray damaged neighbor's car and fence. Closed. $30,000.
+
+PRIOR INSURANCE: No cancellations or non-renewals.

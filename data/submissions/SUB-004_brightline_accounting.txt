@@ -1,0 +1,25 @@
+FICTIONAL SAMPLE FOR TESTING - not a real business
+
+From: Dana Whitfield <dana@frontrangeagency.example>
+To: submissions@northwindmutual.example
+Date: October 27, 2026
+Subject: Quote request - Brightline Accounting LLC
+
+Hi,
+
+Quick one for you. Brightline Accounting LLC is a CPA firm with 8 staff.
+They rent a suite on the 4th floor of an office building in Denver and only
+need contents and business income on the property side, plus GL.
+
+- Address: 1600 Glenarm Place, Suite 410, Denver, CO 80202
+- In business 9 years
+- Revenue: $1.1M
+- Contents: $120,000 (computers, furniture)
+- Business income: $200,000
+- Flood zone X
+- No claims ever, and no prior cancellations or non-renewals
+
+The landlord insures the building, which is a 2015 noncombustible office tower.
+
+Thanks!
+Dana

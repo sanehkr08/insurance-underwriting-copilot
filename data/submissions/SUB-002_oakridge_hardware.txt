@@ -1,0 +1,32 @@
+FICTIONAL SAMPLE FOR TESTING - not a real business
+
+From: Mark Delaney <mdelaney@buckeyeinsurance.example>
+To: submissions@northwindmutual.example
+Date: October 20, 2026
+Subject: Oakridge Hardware - renewal shopping
+
+Hello,
+
+Family-owned hardware store in Dayton, Ohio, in business since 1995. They own
+their building, a brick (masonry) building downtown built in 1958. The owners have kept
+it up well. Electrical and plumbing were redone in 2015. The furnace is the
+original one they put in when they bought the place in 1998, and the roof went
+on in 2004. No roof inspection on file.
+
+They had one water damage claim in 2023 (burst pipe in winter, $22,000 paid,
+closed). Nothing else. No cancellations or non-renewals in the past 3 years;
+their current carrier is happy to renew, they just want a better price.
+
+Revenue last year was $2.4 million. 14,000 sq ft, all used by the store, no
+sprinklers. Flood zone X.
+
+Values requested:
+  Building          $1,900,000
+  Contents (stock)    $900,000
+  Business income     $300,000
+
+Address: 220 East Third Street, Dayton, OH 45402
+
+Let me know if you need anything else.
+
+Mark
