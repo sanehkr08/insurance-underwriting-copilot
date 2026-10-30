@@ -1,7 +1,7 @@
 # Appetite and Eligibility
 
-**Program:** Main Street Business Package (property + general liability) for small businesses
-**Insurer:** Northwind Mutual (fictional, for testing only)
+- **Program:** Main Street Business Package (property + general liability) for small businesses
+- **Insurer:** Northwind Mutual (fictional, for testing only)
 
 Each rule has an ID. Every underwriting decision must cite the rule IDs it relies on.
 

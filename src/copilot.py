@@ -132,7 +132,10 @@ def check_findings(findings: list[RuleFinding], rule_ids: list[str]) -> tuple[li
 
 
 def underwrite(path: Path) -> UnderwritingDecision:
-    submission_text = path.read_text(encoding="utf-8")
+    return underwrite_text(path.read_text(encoding="utf-8"), path.name)
+
+
+def underwrite_text(submission_text: str, name: str = "pasted submission") -> UnderwritingDecision:
     guidelines, rule_ids = load_guidelines()
 
     facts, model_1 = extract_facts(submission_text)
@@ -142,7 +145,7 @@ def underwrite(path: Path) -> UnderwritingDecision:
 
     decision = decide(findings, assessment.missing_information)
     return UnderwritingDecision(
-        submission=path.name,
+        submission=name,
         decision=decision,
         reasons=[f for f in findings if f.outcome in ("REFER", "DECLINE")],
         missing_information=assessment.missing_information,
